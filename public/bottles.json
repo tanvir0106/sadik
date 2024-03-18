@@ -1,0 +1,89 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/L5hxstF/chiken.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Chicken Teriyaki",
+      "short_description": "A delicious Japanese-style chicken dish cooked in a sweet and savory teriyaki sauce.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/8gX13BN/spaghetti-bolognese.jpg",
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta dish with a rich and flavorful meat sauce.",
+      "ingredients": [
+        "400 g spaghetti",
+        "300 g ground beef",
+        "1 onion",
+        "500 ml tomato sauce"
+      ],
+      "preparing_time": "45 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/Ytvrv1z/vegetable-stir-fry.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir Fry",
+      "short_description": "A colorful and nutritious stir-fry made with an assortment of fresh vegetables.",
+      "ingredients": [
+        "300 g mixed vegetables (bell peppers, broccoli, carrots)",
+        "150 g tofu",
+        "50 ml soy sauce",
+        "2 cloves garlic"
+      ],
+      "preparing_time": "25 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/WH6k6Qt/grilled-salmon.jpg",
+      "recipe_id": 4,
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Healthy and flavorful grilled salmon fillets seasoned with herbs and lemon.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tbsp olive oil",
+        "1 lemon",
+        "2 tsp dried dill"
+      ],
+      "preparing_time": "20 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/2KJqcCL/mushroom-risotto.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy and comforting Italian rice dish cooked with mushrooms and Parmesan cheese.",
+      "ingredients": [
+        "300 g Arborio rice",
+        "200 g mushrooms",
+        "1 onion",
+        "1 liter vegetable broth"
+      ],
+      "preparing_time": "40 min",
+      "calories": "380 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/9tMyGKs/banana-smoothie.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Banana Smoothie",
+      "short_description": "Refreshing and nutritious smoothie made with ripe bananas and yogurt.",
+      "ingredients": [
+        "2 ripe bananas",
+        "250 ml yogurt",
+        "150 ml milk",
+        "1 tbsp honey"
+      ],
+      "preparing_time": "10 min",
+      "calories": "200 calories"
+    }
+  ]
+
+
+
